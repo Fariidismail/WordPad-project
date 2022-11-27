@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\WordPad project\WordPad project\bin\Debug\WordPad project.exe.config
+C:\Users\User\source\repos\WordPad project\WordPad project\bin\Debug\WordPad project.exe
+C:\Users\User\source\repos\WordPad project\WordPad project\bin\Debug\WordPad project.pdb
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad project.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad_project.Form1.resources
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad_project.Properties.Resources.resources
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad project.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad project.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad project.exe
+C:\Users\User\source\repos\WordPad project\WordPad project\obj\Debug\WordPad project.pdb
